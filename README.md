@@ -22,8 +22,8 @@ O documento foi elaborado no formato **moderncv** (tema *classic*), apresentando
 
 ## Como Visualizar
 
-- Para acessar diretamente, clique no arquivo [`curriculo.pdf`](curriculo.pdf) aqui no GitHub.  
+- Para acessar diretamente, clique no arquivo [`curriculo.pdf`](Currículo___Pedro_A_H_B___16_07_2025.pdf) aqui no GitHub.  
 - Ou clone este repositório e abra o PDF localmente no seu computador:
 
 ```bash
-git clone https://github.com/SeuUsuario/NomeDoRepositorio.git
+git clone https://github.com/PedroAHB/Curriculo_Pedro_LaTeX
