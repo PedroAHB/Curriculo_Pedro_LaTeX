@@ -15,8 +15,27 @@ Este repositório contém meu currículo profissional desenvolvido em **LaTeX**,
   - Atividades extracurriculares
   - Idiomas
 
-## 🔧 Como compilar
-Execute no terminal, dentro da pasta do projeto:
+## ⚙️ Pré-requisitos
+Antes de iniciar, certifique-se de possuir as seguintes ferramentas instaladas no seu ambiente:
+- [Git](https://git-scm.com/) (para realizar a clonagem do repositório).
+- Uma distribuição LaTeX, como [TeX Live](https://tug.org/texlive/) (Linux/Windows), [MiKTeX](https://miktex.org/) (Windows/macOS) ou [MacTeX](https://tug.org/mactex/) (macOS).
+
+## 📥 Como clonar o repositório
+Para obter uma cópia local deste projeto, abra o seu terminal e execute o seguinte comando:
 
 ```bash
+git clone [https://github.com/PedroAHB/Curriculo_Pedro_LaTeX.git](https://github.com/PedroAHB/Curriculo_Pedro_LaTeX.git)
+```
+
+## 🔧 Como compilar
+Após clonar o repositório, navegue até a pasta do projeto e execute o comando de compilação:
+
+```bash
+# Navega para o diretório clonado
+cd Curriculo_Pedro_LaTeX
+
+# Compila o documento e gera o arquivo PDF
 pdflatex main.tex
+```
+
+*Observação técnica: Em projetos LaTeX, ocasionalmente é necessário executar o comando `pdflatex main.tex` duas vezes consecutivas na primeira compilação para garantir que o layout e os metadados internos da classe moderncv sejam perfeitamente alinhados.*
