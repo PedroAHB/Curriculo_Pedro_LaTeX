@@ -2,11 +2,6 @@
 
 Este repositório contém meu currículo profissional desenvolvido em **LaTeX**, utilizando a classe **moderncv** (tema *classic*). O projeto é totalmente local, organizado e pronto para compilação com distribuições como MiKTeX ou TeX Live.
 
-## 🖼️ Preview
-
-<!-- Adicione um screenshot do PDF renderizado, ex.: -->
-<!-- ![Preview do currículo](preview.png) -->
-
 ## Conteúdo
 
 - Arquivo principal: `main.tex`
@@ -26,7 +21,6 @@ Este repositório contém meu currículo profissional desenvolvido em **LaTeX**,
 ```
 Curriculo_Pedro_LaTeX/
 ├── main.tex        # Documento principal
-├── preview.png      # Screenshot do PDF renderizado
 └── README.md
 ```
 
