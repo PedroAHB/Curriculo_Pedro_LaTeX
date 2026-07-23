@@ -23,6 +23,7 @@ Este repositório contém meu currículo profissional desenvolvido em **LaTeX**,
 ```
 Curriculo_Pedro_LaTeX/
 ├── main.tex        # Documento principal
+├── capa.png        # Foto da capa
 └── README.md
 ```
 
