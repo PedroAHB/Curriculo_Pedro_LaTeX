@@ -2,7 +2,7 @@
 
 # Currículo em LaTeX — Pedro Augusto Hackner Bittencourt
 
-Este repositório contém meu currículo profissional desenvolvido em **LaTeX**, utilizando a classe **moderncv** (tema *classic*). O projeto é totalmente local, organizado e pronto para compilação com distribuições como MiKTeX ou TeX Live.
+Este repositório contém meu currículo profissional desenvolvido em **LaTeX** através do Overleaf, utilizando a classe **moderncv** (tema *classic*). O projeto é totalmente local, organizado e pronto para compilação com distribuições como MiKTeX ou TeX Live.
 
 ## Conteúdo
 
